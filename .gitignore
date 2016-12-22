@@ -45,6 +45,9 @@ coverage.xml
 *,cover
 .hypothesis/
 
+# idea
+.idea/
+
 # Translations
 *.mo
 *.pot
